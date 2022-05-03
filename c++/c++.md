@@ -10,3 +10,12 @@ In laymen's terms an unsigned int is an integer that can not be negative and thu
 
 ## Charater types:
 ![char](2022-05-02_08-34-58_SumatraPDF.png)
+
+## Boolean:
+![bool](2022-05-02_17-10-39_SumatraPDF.png)
+
+## void:
+none
+
+# Array:
+![arr](2022-05-03_07-40-26_SumatraPDF.png)
