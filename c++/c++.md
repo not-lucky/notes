@@ -1,4 +1,7 @@
 # Fundamental Types: 
+
+## Format specifiers:
+![fs](2022-05-07_06-27-13_chrome.png)
 ## Integer:
 ![int](2022-05-02_07-11-01_SumatraPDF.png)
 
@@ -14,12 +17,13 @@ In laymen's terms an unsigned int is an integer that can not be negative and thu
 ## Boolean:
 ![bool](2022-05-02_17-10-39_SumatraPDF.png)
 
+### size_t type:
+![size_t](2022-05-03_20-04-21_SumatraPDF.png)
+
+
 ## void:
 none
 
 # Array:
 ![arr](2022-05-03_07-40-26_SumatraPDF.png)
-
-### size_t type:
-![size_t](2022-05-03_20-04-21_SumatraPDF.png)
 
