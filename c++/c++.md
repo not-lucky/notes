@@ -19,3 +19,7 @@ none
 
 # Array:
 ![arr](2022-05-03_07-40-26_SumatraPDF.png)
+
+### size_t type:
+![size_t](2022-05-03_20-04-21_SumatraPDF.png)
+

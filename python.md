@@ -242,3 +242,16 @@ add(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 `function.__name__` returns the function name.
 `args` is just a tuple
 
+
+
+
+
+
+
+TO do
+
+lambda
+xrange
+generators
+itertools
+map
