@@ -250,8 +250,13 @@ add(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 
 TO do
 
-lambda
-xrange
+decorators
 generators
-itertools
+zip
+lambda
+OrderedDict
+getattr
+xrange
+everything itertools and collections and functools
 map
+regular expression (interesting) (practice daily) (wanna give my se4minar in this)
